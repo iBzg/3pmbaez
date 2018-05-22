@@ -1,0 +1,7 @@
+ServerAdmin www.3pmbaez.unam.mx
+ServerName www.3pmbaez.unam.mx
+DocumentRoot /var/www/public_html/3pmbaez
+ErrorDocument 404 "Recurso no disponible"
+
+ErrorLog ${APACHE_LOG_DIR}/error_3pmbaez.log
+CustomLog ${APACHE_LOG_DIR}/access_3pmbaez.log combined

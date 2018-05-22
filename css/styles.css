@@ -1,0 +1,44 @@
+#encabezado{
+	background-color: #000033;
+}
+h1 {
+	text-align: center;
+	color: #FC00B6;
+	text-shadow: 3px 3px black;
+}
+body{
+	background-color: #ffffff;
+}
+
+form{
+	border-color: black;
+	border-style: inset;
+	margin: 200px 400px 50px 400px;
+	font-size: 25px;
+	background-color: #b3b3ff;
+}
+
+
+#menu{
+	background-color: #000066;
+	color: white;
+	font-size: 20px;
+}
+a{
+	color: #ffffff;
+}
+
+footer{
+	background-color: #00004d;
+	font-size: 10px;
+	color: #ffffff;
+}
+
+#creditos{
+	text-align: center;
+}
+	
+#mostrar{
+	font-size: 30px;
+	margin: 200px 400px 50px 400px;
+}
